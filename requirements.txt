@@ -19,6 +19,7 @@ mlxtend==0.17.3
 numpy==1.18.3
 pandas==1.0.3
 pandocfilters==1.4.2
+pickleshare==0.7.5
 plotly==4.10.0
 protobuf==3.13.0
 py4j==0.10.7
@@ -36,3 +37,4 @@ pywsd==1.2.4
 PyYAML==5.3.1
 pyzmq==19.0.0
 seaborn==0.10.1
+sklearn==0.0
