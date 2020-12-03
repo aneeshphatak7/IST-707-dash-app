@@ -1,1 +1,1 @@
-web: gunicorn IST707_Project:server
+web: gunicorn app:server
