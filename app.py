@@ -84,7 +84,7 @@ app.layout = html.Div([
             html.P('Select C'),
             dcc.Dropdown(
                 id='LR_C',
-                options=[{'label': i, 'value': i} for i in [.001,.005,.01,0.1,0.3,0.5,1,3,5,10]],
+                options=[{'label': i, 'value': i} for i in [.001,.005,.01,0.1,0.3,0.5,0.7,0.9]],
                 value=0.001,
                 style={'width': '160px'}
             ),
